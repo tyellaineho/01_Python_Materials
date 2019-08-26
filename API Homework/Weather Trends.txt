@@ -1,0 +1,4 @@
+Three Observable Weather Trends Based on Latitude
+1) The temperature rises as the latitutude coordinates are closer to 0, and trends to decrease as latitudes increase both on the negative (ex: -60) and positive side (ex: 60)
+2) Most citites range between 0 to 10 on wind speed, regardless of latitude locations.
+3) Cities that are located at the equator tend to have high humidity.
