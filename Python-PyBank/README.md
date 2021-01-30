@@ -6,7 +6,7 @@ PyBank is one of the first Python homework assignments that I completed at the C
 
 The greatest increases in profits were documented in February 2012. The greatest decreases in profits is documented in September 2013.
 
-[financial-output](Images/financial-output.png)
+![financial-output](Images/financial-output.png)
 
 ###### Technologies
 Python 3.8.5
