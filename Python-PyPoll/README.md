@@ -7,4 +7,4 @@ PyPoll is one of the first Python homework assignments that I completed at the C
 The results indicate that Khan has won the election with 63% of the total votes.
 A sample of the terminal output is below:
 
-![PyPoll-Output](/Images/pypoll-output.png)
+![PyPoll-Output](Images/pypoll-output.png)
