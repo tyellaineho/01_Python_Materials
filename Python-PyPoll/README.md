@@ -8,3 +8,6 @@ The results indicate that Khan has won the election with 63% of the total votes.
 A sample of the terminal output is below:
 
 ![PyPoll-Output](Images/pypoll-output.png)
+
+###### Technologies
+Python 3.8.5
